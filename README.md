@@ -40,7 +40,7 @@ Copy this project on your local computer - follow these next steps.
 
 Read up on the inquirer and npm packages.
 
-Clone the GitHub repository: git@github.com:Thomas-Barnhart/Employee-Tracker-Manager.git
+Clone the GitHub repository: [Link for clone](git@github.com:Thomas-Barnhart/Employee-Tracker-Manager.git)
 
 ### Test Instructions
 
